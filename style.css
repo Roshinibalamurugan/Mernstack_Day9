@@ -1,0 +1,12 @@
+ul.item-list {
+    margin: 20px;           
+    padding: 10px;        
+    background-color: #d388de; 
+    list-style-type: square; 
+}
+
+ul.item-list li {       
+    font-size: 16px;       
+    color: black;           
+    font-family: Arial, sans-serif; 
+}
